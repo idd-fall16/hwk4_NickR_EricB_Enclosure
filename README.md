@@ -26,7 +26,9 @@ A cutout was also designed for the USB cable, so the microcontroller could be po
 
 <img src="img/2.png" alt="base" width="500"/>
 
-## Drawings
+## Modeling files
+
+A zip of the modeling files and drawings can be found <a href="CAD/files.zip">here</a>. Since the part was modeled in NX it may not be viewable, so a STEP file was included as well. 
 
 ## Team
 
