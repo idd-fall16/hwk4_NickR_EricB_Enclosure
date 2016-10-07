@@ -8,7 +8,7 @@ This enclosure was designed so that the jumper wires did not need to be fully un
 
 <img src="img/sketch.jpg" alt="sketch"/>
 
-We chose to use magnets to attach the top and the base because we did not want to carry around a screwdriver to take it apart every time we wanted to use it. The magnets are neodynium, and based on past projects we know they are strong enough to hold together the enclosure. They are intentionally sunken into their holes, to prevent them from crashing into each other and shattering when the top and base are joined. This also reduces their attractive force, which is ncessary because they are extremely strong.
+We chose to use magnets to attach the top and the base because we did not want to carry around a screwdriver to take it apart every time we wanted to use it. The magnets are neodynium, and based on past projects we know they are strong enough to hold together the enclosure. They are intentionally sunken into their holes, to prevent them from crashing into each other and shattering when the top and base are joined. This also reduces their attractive force, which is necessary because they are extremely strong.
 
 ## 3D Modeling
 
@@ -29,6 +29,9 @@ A cutout was also designed for the USB cable, so the microcontroller could be po
 ## Modeling files
 
 A zip of the modeling files and drawings can be found <a href="CAD/files.zip" target="_blank">here</a>. Since the part was modeled in NX it may not be viewable, so a STEP file was included as well. 
+
+## 3D Printing
+Stay tuned! We will be updating this once we print the part early next week. 
 
 ## Team
 
