@@ -6,7 +6,16 @@
 
 **Create a dimensioned drawing for the top and bottom piece of the container with overall dimensions. Do not worry about dimensioning small features inside. Include the front, right and top views in your drawings.**
 
-The enclosure consists of a top and bottom shell. The bottom shell is designed to fit a 3.29" x 2.15" mini breadboard with the sides of the breadboard contacting the inner walls of the shell and the top of the breadboard extending slightly above the walls. To allow a user to close the case without having to remove wires from the breadboard, the top shell extends ##" above the top of the breadboard. The top shell also includes a cut-out to allow a USB cable to connect to a microcontroller on the breadboard. The top and bottom shells are held together using a pair of magnets fixed to each corner of the enclosure. This allows the user to easily open the case but still protects the contents of the breadboard.
+
+The enclosure consists of a top and bottom shell. The bottom shell is designed to fit a 3.29" x 2.15" mini breadboard with the sides of the breadboard contacting the inner walls of the shell and the top of the breadboard extending slightly above the walls, as shown in the image below.
+
+IMAGE HERE
+
+To allow a user to close the case without having to remove components from the breadboard, the top shell extends ##" above the top of the board. The top shell also includes a cut-out to allow a USB cable to connect to a microcontroller on the breadboard.
+
+IMAGE HERE
+
+The top and bottom shells are held together using a pair of magnets fixed to each corner of the enclosure. This allows the user to easily open the case but still protects the contents of the breadboard.
 
 ## Team
 
